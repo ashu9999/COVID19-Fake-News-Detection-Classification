@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-CONSUMER_KEY = "97lnWZ6vic7EcMJeKDFbkMtKN"
-CONSUMER_SECRET = "qzqLMmPaIzwaSZCrnSyIBCiyFr7urmAZywsSIeWPPfchHw9ZxD"
-OAUTH_TOKEN = "958692937864327175-T0fhQsxHeHJsREwk0nu0couSuzAku9Z"
-OAUTH_TOKEN_SECRET = "VFLgcO1t9v80Huu2qhziVrjFcxEGlxAr5A5pPn1E6CkAU"
+CONSUMER_KEY = "xxxxxxxxxxxxxxxxx"
+CONSUMER_SECRET = "xxxxxxxxxxxxxxxxxxxxxxx"
+OAUTH_TOKEN = "xxxxxxxxxxxxxxxxxxx"
+OAUTH_TOKEN_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxx"
 
